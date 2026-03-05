@@ -44,7 +44,7 @@ for synchronous sessions organized by Module.
 
 * Reading: AIMA Chapters 4.3 - 4.5
 * [Lecture presentation slides](../04_search_with_uncertainty.pdf)
-* [Sync session presentation slides](04_search_with_uncertainty.pdf) ([PPT](04_search_with_uncertainty.pptx))
+* [Sync session presentation slides](04_search_with_uncertainty_discussion.pdf) ([PPT](04_search_with_uncertainty_discussion.pptx))
 * [Code examples](../../Search_with_Uncertainty)
 
 
@@ -52,7 +52,7 @@ for synchronous sessions organized by Module.
 
 * Reading: AIMA Chapter 5
 * [Lecture presentation slides](../05_games.pdf)
-* [Sync session presentation slides](05_games_uncertainty.pdf) ([PPT](05_games_uncertainty.pptx))
+* [Sync session presentation slides](05_games_uncertainty_discussion.pdf) ([PPT](05_games_uncertainty_discussion.pptx))
 * [Code examples](../../Games)
 * Supplemental:
     - [Video: Algorithms Explained – minimax and alpha-beta pruning](https://www.youtube.com/watch?v=l-hh51ncgDI)
