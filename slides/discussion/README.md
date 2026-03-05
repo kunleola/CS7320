@@ -52,7 +52,7 @@ for synchronous sessions organized by Module.
 
 * Reading: AIMA Chapter 5
 * [Lecture presentation slides](../05_games.pdf)
-* [Sync session presentation slides](05_games_uncertainty_discussion.pdf) ([PPT](05_games_uncertainty_discussion.pptx))
+* [Sync session presentation slides](05_games_discussion.pdf) ([PPT](05_games_discussion.pptx))
 * [Code examples](../../Games)
 * Supplemental:
     - [Video: Algorithms Explained – minimax and alpha-beta pruning](https://www.youtube.com/watch?v=l-hh51ncgDI)
