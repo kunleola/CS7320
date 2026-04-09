@@ -23,8 +23,13 @@ __Note:__ Please contact me if you find a link that does not work.
 
 * [Data Structures and Algorithms in Python - Full Course for Beginners](https://www.youtube.com/watch?v=pkYVOmU3MgA&list=RDCMUC8butISFwT-Wl7EV0hUK0BQ)
 
-## Probability Theory and Combinatorics
+## Probability Theory 
 
 * Khan Academy: [Statistics and probability](https://www.khanacademy.org/math/statistics-probability). You need at least 
-[Unit 7 Probability](https://www.khanacademy.org/math/statistics-probability/probability-library) and [Unit 8 Counting, permutations, and combinations](https://www.khanacademy.org/math/statistics-probability/counting-permutations-and-combinations).
+[Unit 7 Probability](https://www.khanacademy.org/math/statistics-probability/probability-library).
+* [Steve Brunton's Probability Bootcamp](https://www.youtube.com/watch?v=sQqniayndb4&list=PLMrJAkhIeNNR3sNYvfgiKgcStwuPSts9V) offers a very detailed introduction.  
+
+## Combinatorics
+
+* Khan Academy: [Unit 8 Counting, permutations, and combinations](https://www.khanacademy.org/math/statistics-probability/counting-permutations-and-combinations).
  

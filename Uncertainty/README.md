@@ -1,10 +1,5 @@
 # Chapter 12 Uncertainty
 
-## Probability Theory Refresher 
-
-* Video Lectures: [Probability Bootcamp](https://www.youtube.com/watch?v=sQqniayndb4&list=PLMrJAkhIeNNR3sNYvfgiKgcStwuPSts9V)
-by Steve Brunton
-
 ## Contents
 
 * Example: [Estimating Probabilities using Frequentist vs. Bayesian Inference: Coin Toss](https://colab.research.google.com/github/mhahsler/Introduction_to_Artificial_Intelligence/blob/master/Uncertainty/Frequentist_vs_Bayesian.ipynb)
