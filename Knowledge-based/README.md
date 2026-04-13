@@ -17,6 +17,12 @@ short primer for
 ## Large Language Models
 Large language models (LLMs) are a type of knowledge-based agents that use natural language rather than logic. They can be used via an API or run locally. Important task are [prompt engineering](https://www.kdnuggets.com/a-gentle-introduction-to-context-engineering-in-llms)/[context engineering](https://www.kdnuggets.com/a-gentle-introduction-to-context-engineering-in-llms). Resources:
 
+
+Example:
+* [Running LLMs locally.](https://mhahsler.github.io/Introduction_to_Artificial_Intelligence/Knowledge-based/LLM.ipynb)
+
+
+Libraries and Prompting:
 * [OpenAI Python API Library.](https://github.com/openai/openai-python)
 * [Hugging Face](https://huggingface.co/) provides a large collection
   of downloadable pretrained LLMs with 
