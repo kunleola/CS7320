@@ -1,12 +1,12 @@
 <!-- #region -->
-# Artificial Intelligence - Lecture Material, Simple Python Code Examples and Assignments
+# Artificial Intelligence - Lecture Material, Simple Python Code Examples and Exercises
 [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC_BY_NC_SA_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
 
 <img src="assets/cover2.jpg" align="right">
 
 
-This repository contains lecture material, simple Python code examples, and assignments for the course
+This repository contains lecture material, simple Python code examples, and programming exercises for the course
 CS 5/7320 Artificial Intelligence taught 
 by [Michael Hahsler](https://michael.hahsler.net/) 
 at the 
@@ -15,10 +15,12 @@ at the
 The code examples cover several chapters of the textbook [Artificial Intelligence: A Modern Approach (AIMA)](http://aima.cs.berkeley.edu/) by Russell and Norvig. The code in this repository is intended to be simple to focus more on the basic AI concepts and less on the use of advanced implementation techniques (e.g., object-oriented design and flexibility).
 More complex code examples accompanying the textbook can be found at the [GitHub repository aimacode](https://github.com/aimacode).  
 
-Studying the material requires
-* advanced Python programming skills.
-* practical knowledge of how to implement data structures (Big-O notation, search trees).
-* a working knowledge of probability theory and combinatorics.
+## Prerequisites 
+
+Studying the material requires:
+* Python programming skills
+* Practical knowledge of how to implement data structures (Big-O notation, search trees)
+* Knowledge of probability theory and combinatorics basics
 
 Here is [HOWTO Cover these topics](HOWTOs/prereqs.md) if you feel week on one of these topics. 
 
