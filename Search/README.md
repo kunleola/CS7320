@@ -7,6 +7,7 @@
 
 ## Exercise
 * [Solve a maze using a goal-based planning Agent](https://colab.research.google.com/github/mhahsler/Introduction_to_Artificial_Intelligence/blob/master/Search/Maze.ipynb)
+* [A simplified exercise using only BFS](https://colab.research.google.com/github/mhahsler/Introduction_to_Artificial_Intelligence/blob/master/Search/Maze_simplified.ipynb)
 * [Mazes: Show all mazes for the assignment](https://colab.research.google.com/github/mhahsler/Introduction_to_Artificial_Intelligence/blob/master/Search/Show_all_mazes.ipynb)
 
 ## Comparisons
