@@ -20,6 +20,7 @@ Large language models (LLMs) are a type of knowledge-based agents that use natur
 
 Example:
 * [Running LLMs locally.](https://mhahsler.github.io/Introduction_to_Artificial_Intelligence/Knowledge-based/LLM.ipynb)
+* [Using Generative AI in Colab (without an API key)](https://colab.research.google.com/github/googlecolab/colabtools/blob/main/notebooks/Getting_started_with_google_colab_ai.ipynb)
 
 
 Libraries and Prompting:
