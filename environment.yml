@@ -2,10 +2,35 @@ name: CS7320-AI
 channels:
   - conda-forge
 dependencies:
-  - python
+  # Supported Python and Jupyter environment
+  - python>=3.11,<3.13
+  - jupyterlab
+  - ipykernel
+  - nbconvert
+
+  # Scientific Python stack used throughout the notebooks
   - numpy
+  - pandas
+  - scipy
+  - matplotlib
+  - seaborn
+  - scikit-learn
+  - numba
+  - nltk
+  - tqdm
+  - tabulate
+
+  # Topic-specific notebook dependencies
+  - pgmpy
+  - transformers
+  - pytorch
+
+  # Native tools needed by the Gymnasium examples
+  - ffmpeg
+  - swig
+
   - pip
   - pip:
     - nbgitpuller
-    - pandas
-    - matplotlib
+    - pyvirtualdisplay
+    - gymnasium[box2d,classic-control,other]
