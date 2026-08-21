@@ -12,11 +12,11 @@ To work on assignments, you can use one of several environments:
 * Install Python, [JupyterLab](https://jupyter.org/) and all needed packages yourself using `pip` or `conda`. You can
 also use [Anaconda](https://anaconda.org/) for easier installation.
 
-## Learning Python and Jupyer Notebook
+## Learning Python and Jupyter Notebook
 
 If you are not familiar with Python, then you should work through one of the many Python tutorials (e.g., [this tutorial](https://www.w3schools.com/python/default.asp)) to learn the basics about Python and the packages `numpy` and `pandas`. Some code examples that help with the assignments are available [here](.).
 
-How to use Jupyter notebooks is covered in many online tutorials like the [Jupyer notebook tutorial](https://www.dataquest.io/blog/jupyter-notebook-tutorial/).
+How to use Jupyter notebooks is covered in many online tutorials like the [Jupyter notebook tutorial](https://www.dataquest.io/blog/jupyter-notebook-tutorial/).
 
 
 ## License

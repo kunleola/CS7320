@@ -3,7 +3,7 @@
 
 ## Simple ML Examples
 
-* [Line Fitting: Gradient Descend and SGD](https://colab.research.google.com/github/mhahsler/Introduction_to_Artificial_Intelligence/blob/master/ML/line_fitting.ipynb)
+* [Line Fitting: Gradient Descent and SGD](https://colab.research.google.com/github/mhahsler/Introduction_to_Artificial_Intelligence/blob/master/ML/line_fitting.ipynb)
 * [Machine Learning with Python using scikit Learn](https://colab.research.google.com/github/mhahsler/Introduction_to_Artificial_Intelligence/blob/master/ML/ML_example.ipynb)
 
 

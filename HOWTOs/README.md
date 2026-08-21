@@ -4,8 +4,8 @@
 This folder contains useful Python code for the AI course. This includes 
 general Python examples:
 
-* How to [debug in Jupyer Notebooks](https://colab.research.google.com/github/mhahsler/Introduction_to_Artificial_Intelligence/blob/master/HOWTOs/debugging_in_notebooks.ipynb)
-* How to [make charts with mathplotlib and tables with pandas](https://colab.research.google.com/github/mhahsler/Introduction_to_Artificial_Intelligence/blob/master/HOWTOs/charts_and_tables.ipynb)
+* How to [debug in Jupyter Notebooks](https://colab.research.google.com/github/mhahsler/Introduction_to_Artificial_Intelligence/blob/master/HOWTOs/debugging_in_notebooks.ipynb)
+* How to [make charts with matplotlib and tables with pandas](https://colab.research.google.com/github/mhahsler/Introduction_to_Artificial_Intelligence/blob/master/HOWTOs/charts_and_tables.ipynb)
 * How to [use random numbers and arrays in numpy](https://colab.research.google.com/github/mhahsler/Introduction_to_Artificial_Intelligence/blob/master/HOWTOs/random_numbers_and_arrays.ipynb)
 * How to [profile Python code](https://colab.research.google.com/github/mhahsler/Introduction_to_Artificial_Intelligence/blob/master/HOWTOs/profiling_code.ipynb) to improve runtime.
 
