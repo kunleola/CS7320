@@ -5,19 +5,19 @@
 ## Howto
 * [HOWTO: Simple Trees used for Search-based AI in Python](https://colab.research.google.com/github/mhahsler/Introduction_to_Artificial_Intelligence/blob/master/HOWTOs/trees.ipynb)
 
-## Exercise
-* [Solve a maze using a goal-based planning Agent](https://colab.research.google.com/github/mhahsler/Introduction_to_Artificial_Intelligence/blob/master/Search/Maze.ipynb)
-* [A simplified exercise using only BFS](https://colab.research.google.com/github/mhahsler/Introduction_to_Artificial_Intelligence/blob/master/Search/Maze_simplified.ipynb)
-* [Mazes: Show all mazes for the assignment](https://colab.research.google.com/github/mhahsler/Introduction_to_Artificial_Intelligence/blob/master/Search/Show_all_mazes.ipynb)
-
 ## Comparisons
-* [Mazes: Compare the search behavior of different algorithms](https://mhahsler.github.io/Introduction_to_Artificial_Intelligence/Search/Maze_Example.html).
-* [Mazes: Compare the detailed search behavior with animations](https://mhahsler.github.io/Introduction_to_Artificial_Intelligence/Search/Maze_Example_Animation.html).
-* [Mazes: Compare BFS with A-Star Search using the L Maze](https://mhahsler.github.io/Introduction_to_Artificial_Intelligence/Search/Maze_BFS_vs_A_Star.html).
-* [Mazes: Compare Issues with DSF Cycle Checking for the Open Maze](https://mhahsler.github.io/Introduction_to_Artificial_Intelligence/Search/Maze_Example-Animation_Cycle_checking.html).
+* [Mazes: Compare the search behavior of different algorithms](https://colab.research.google.com/github/mhahsler/Introduction_to_Artificial_Intelligence/blob/master/Search/Maze_Example.ipynb).
+* [Mazes: Compare the detailed search behavior with animations](https://colab.research.google.com/github/mhahsler/Introduction_to_Artificial_Intelligence/blob/master/Search/Maze_Example_Animation.ipynb).
+* [Mazes: Compare BFS with A-Star Search using the L Maze](https://colab.research.google.com/github/mhahsler/Introduction_to_Artificial_Intelligence/blob/master/Search/Maze_BFS_vs_A_Star.ipynb).
+* [Mazes: Compare Issues with DSF Cycle Checking for the Open Maze](https://colab.research.google.com/github/mhahsler/Introduction_to_Artificial_Intelligence/blob/master/Search/Maze_Example-Animation_Cycle_checking.ipynb).
 
 ## Heuristics
 * [Maze: The effect of different heuristics](https://colab.research.google.com/github/mhahsler/Introduction_to_Artificial_Intelligence/blob/master/Search/Explore_heuristics.ipynb)
+
+## Exercises
+* [Solve a maze using a goal-based planning Agent](https://colab.research.google.com/github/mhahsler/Introduction_to_Artificial_Intelligence/blob/master/Search/Maze.ipynb)
+* [A simplified exercise using only BFS](https://colab.research.google.com/github/mhahsler/Introduction_to_Artificial_Intelligence/blob/master/Search/Maze_simplified.ipynb)
+* [Mazes: Show all mazes for the assignment](https://colab.research.google.com/github/mhahsler/Introduction_to_Artificial_Intelligence/blob/master/Search/Show_all_mazes.ipynb)
 
 ## License
 &copy; 2025-2026 [Michael Hahsler](http://michael.hahsler.net). 
