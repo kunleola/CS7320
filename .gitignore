@@ -1,4 +1,3 @@
-.env
 .vscode
 settings.json
 
@@ -11,3 +10,6 @@ WORK_*
 
 .ipynb_checkpoints/
 ~$*.pptx
+
+# source is in Games:
+RL/tictactoe.py

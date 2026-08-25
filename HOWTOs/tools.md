@@ -4,13 +4,42 @@
 ## Installing Python and Jupyter Notebook
 
 You can experiment with the code online without installation using 
-[Google CoLab](https://colab.research.google.com/github/mhahsler/Introduction_to_Artificial_Intelligence/).
+[Google CoLab](https://colab.research.google.com/github/mhahsler/Introduction_to_Artificial_Intelligence/). If additional packages are needed then
+I will provide a code block with a commented out `pip install` instruction you can use.
 
 To work on assignments, you can use one of several environments: 
 * Use the online service [Google CoLab](https://colab.research.google.com). No additional installations are necessary.
 * Install Visual Studio Code. It will prompt you to install all needed software when you open a notebook file.
-* Install Python, [JupyterLab](https://jupyter.org/) and all needed packages yourself using `pip` or `conda`. You can
-also use [Anaconda](https://anaconda.org/) for easier installation.
+
+## Setting up the Environment with Conda
+
+This uses conda to manage virtual environments. 
+
+1. Install [Miniconda](https://www.anaconda.com/docs/getting-started/installation). 
+2. Download [environment.yml](../environment.yml)
+3. From the VS Code terminal, run these commands from the repository root:
+
+   ```bash
+   conda env create -f environment.yml
+   conda activate CS7320-AI
+   ```
+
+Then configure VS Code:
+
+  1. Install Microsoft’s Python and Jupyter extensions.
+  2. Press Ctrl+Shift+P.
+  3. Select Python: Select Interpreter.
+  4. Choose CS7320-AI.
+  5. For a notebook, click Select Kernel in the upper-right and choose CS7320-AI. 
+     If you cannot find it then you probably need to restart VS Code.
+
+
+Optional packages can be added afterward:
+
+* Gymnasium and Lunar Lander
+  `conda env update -n CS7320-AI -f environments/gymnasium.yml`
+* Local LLM examples
+  `conda env update -n CS7320-AI -f environments/llm.yml`
 
 ## Learning Python and Jupyter Notebook
 

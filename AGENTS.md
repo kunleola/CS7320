@@ -27,6 +27,8 @@ jupyter lab
 
 The supported Python range is 3.11 through 3.12. Do not add a dependency unless it is needed by the course material; when adding one, update `environment.yml` and explain why.
 
+Optional topic dependencies are separated under `environments/`: apply `gymnasium.yml` or `llm.yml` to the core `CS7320-AI` environment, and use the standalone `r.yml` environment for R/Quarto material. Keep notebook-level Colab installation cells commented out by default, version-bounded, and aligned with these files.
+
 ## Editing Guidelines
 
 - Preserve the educational scope, terminology, and progression of the surrounding material.
