@@ -10,7 +10,7 @@ This repository contains lecture material, simple Python code examples, and prog
 CS 5/7320 Artificial Intelligence taught 
 by [Michael Hahsler](https://michael.hahsler.net/) 
 at the 
-[Department of Computer Science at SMU](https://www.smu.edu/Lyle/Academics/Departments/CS). 
+[Department of Computer Science at SMU](https://www.smu.edu/lyle/departments/cs). 
 
 The code examples cover several chapters of the textbook [Artificial Intelligence: A Modern Approach (AIMA)](http://aima.cs.berkeley.edu/) by Russell and Norvig. The code in this repository is intended to be simple to focus more on the basic AI concepts and less on the use of advanced implementation techniques (e.g., object-oriented design and flexibility).
 More complex code examples accompanying the textbook can be found at the [GitHub repository aimacode](https://github.com/aimacode).  

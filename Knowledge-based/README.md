@@ -27,7 +27,7 @@ Libraries and Prompting:
 * [OpenAI Python API Library.](https://github.com/openai/openai-python)
 * [Hugging Face](https://huggingface.co/) provides a large collection
   of downloadable pretrained LLMs with 
-* [Prompt engineering guide](https://platform.openai.com/docs/guides/prompt-engineering) from OpenAI.
+* [Prompt engineering guide](https://developers.openai.com/api/docs/guides/prompt-engineering) from OpenAI.
 * Textbook: [Speech and Language Processing](https://web.stanford.edu/~jurafsky/slp3/) by Dan Jurafsky and James H. Martin. Part I contains 
   an excellent introduction to language models, transformers and large language models.
 
