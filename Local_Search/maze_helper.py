@@ -11,7 +11,7 @@ from matplotlib import colors
 # for animation
 from matplotlib import animation, rc
 from IPython.display import HTML
-rc('animation', html='html5')
+rc('animation', html='jshtml')
 
 # numpy comparison warnings
 import warnings

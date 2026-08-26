@@ -11,7 +11,7 @@ from matplotlib import colors
 # for animation
 from matplotlib import animation, rc
 from IPython.display import HTML
-rc('animation', html='html5')
+rc('animation', html='jshtml')
 
 # numpy comparison warnings
 import warnings
@@ -134,7 +134,7 @@ Here is an example maze:
 # Experimental sections. Use at your own risk! 
 # Based on show_maze but modified to generate animation (suggested by Troy Jeffrey McNitt)
 def animate_maze(result, repeat = False):
-        """(Experimental) Build an animation from a list of mazes. This needs ffmpeg to be installed.
+        """(Experimental) Build an animation from a list of mazes.
         
         Parameters: 
             result: a list with the elements path, reached, actions and maze_anim with a list of maze arrays that contain what you want to visualize.
