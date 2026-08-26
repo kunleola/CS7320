@@ -45,6 +45,9 @@ An AI solution that uses a set of specially prompted LLM calls. The solution inv
 Video:
 * [Introduction to Agentic AI with Coding Examples](https://youtu.be/LSk5KaEGVk4) ([Code repository](https://github.com/ed-donner/action))
 
+Articles:
+* [Components of A Coding Agent](https://magazine.sebastianraschka.com/p/components-of-a-coding-agent)
+
 Tools:
 * [Open AI Agent SDK](https://openai.github.io/openai-agents-python/): native support for function calling, retrieval, and tool orchestration for the OpenAI ecosystem.
 * [CrewAI](https://github.com/crewAIInc/crewAI): orchestrate multiple specialized AI agents working collaboratively.
