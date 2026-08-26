@@ -11,11 +11,7 @@ llm = [
 ]
 
 r = [
-  "HOWTOs/execute_R_code.ipynb",
-  "Local_Search/traveling_salesman_problem.ipynb",
-  "Local_Search/traveling_salesman_problem_example_2.ipynb",
   "Search/Explore_heuristics.ipynb",
-  "Uncertainty/Monty_Hall_problem.ipynb",
 ]
 
 # These notebooks cannot run unattended by design or require a private helper
