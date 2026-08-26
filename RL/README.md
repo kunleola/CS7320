@@ -10,12 +10,9 @@
 
 ## More on Reinforcement Learning
 
-More on RL can be found in the course material
+More on RL (examples, code, libraries) can be found in the course material
 [Reinforcement Learning: Lecture Material, Simple Python Code Examples and Assignments](https://mhahsler.github.io/Introduction_to_Reinforcement_Learning/)
 
-## Other Software (Python)
-* [Gymnasium](https://github.com/Farama-Foundation/Gymnasium) is an open source Python library for developing and comparing reinforcement learning algorithms.
-* [Stable Baselines3](https://stable-baselines3.readthedocs.io/en/master/) is a Deep Reinforcement Learning library.
 
 ## License
 &copy; 2025-2026 [Michael Hahsler](https://michael.hahsler.net). 
