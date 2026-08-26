@@ -1,0 +1,30 @@
+# Notebooks not listed here are part of the core Python suite. Keeping the
+# special cases explicit makes newly added notebooks get checked by default.
+
+[suites]
+gymnasium = [
+  "Agents/lunar_lander.ipynb",
+]
+
+llm = [
+  "Knowledge-based/LLM.ipynb",
+]
+
+r = [
+  "HOWTOs/execute_R_code.ipynb",
+  "Local_Search/traveling_salesman_problem.ipynb",
+  "Local_Search/traveling_salesman_problem_example_2.ipynb",
+  "Search/Explore_heuristics.ipynb",
+  "Uncertainty/Monty_Hall_problem.ipynb",
+]
+
+# These notebooks cannot run unattended by design or require a private helper
+# that is intentionally excluded from the teaching repository.
+excluded = [
+  "Games/tictactoe_interactive.ipynb",
+  "HOWTOs/debugging_in_notebooks.ipynb",
+  "Search/Maze_BFS_vs_A_Star.ipynb",
+  "Search/Maze_Example-Animation_Cycle_checking.ipynb",
+  "Search/Maze_Example.ipynb",
+  "Search/Maze_Example_Animation.ipynb",
+]
