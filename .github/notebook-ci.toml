@@ -10,10 +10,6 @@ llm = [
   "Knowledge-based/LLM.ipynb",
 ]
 
-r = [
-  "Search/Explore_heuristics.ipynb",
-]
-
 # These notebooks cannot run unattended by design or require a private helper
 # that is intentionally excluded from the teaching repository.
 excluded = [

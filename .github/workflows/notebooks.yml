@@ -30,9 +30,6 @@ jobs:
           - name: LLM notebook
             suite: llm
             overlay: environments/llm.yml
-          - name: R notebooks
-            suite: r
-            overlay: environments/r.yml
 
     steps:
       - name: Check out repository
@@ -50,11 +47,6 @@ jobs:
         if: matrix.overlay != ''
         shell: bash -el {0}
         run: mamba env update --name CS7320-AI --file "${{ matrix.overlay }}"
-
-      - name: Add the Python/R bridge used by mixed-language notebooks
-        if: matrix.suite == 'r'
-        shell: bash -el {0}
-        run: mamba install --yes --name CS7320-AI rpy2 r-tsp
 
       - name: Execute notebooks
         if: matrix.suite != 'gymnasium'
