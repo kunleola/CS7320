@@ -1,13 +1,20 @@
 <!-- #region -->
 # Chapters 17 and 22: Reinforcement Learning and MDPs
 
+
+
 ## Chapter 17: MDPs
 
-[Finding the Optimal Policy to Play Tic-Tac-Toe with Value Iteration](https://colab.research.google.com/github/mhahsler/Introduction_to_Artificial_Intelligence/blob/master/RL/tictactoe_VI.ipynb) implements value iteration to find the optimal policy to play the game.
+* [Define an MDP model for the 4x3 grid world](https://colab.research.google.com/github/mhahsler/Introduction_to_Reinforcement_Learning/blob/master/MDP/4x3_grid_world_MDP.ipynb). Defines the MDP from scratch (from [Reinforcement Learning](https://mhahsler.github.io/Introduction_to_Reinforcement_Learning/)).
+* [Value Iteration and Policy Iteration for Russel and Norvig's 4x3 grid world](https://colab.research.google.com/github/mhahsler/Introduction_to_Reinforcement_Learning/blob/master/DP/4x3_grid_world.ipynb). This notebook discusses the implementation of the algorithms. 
+(from [Reinforcement Learning](https://mhahsler.github.io/Introduction_to_Reinforcement_Learning/))
+* Connection to Chapter 5 (Adversarial Search): [Finding the Optimal Policy to Play Tic-Tac-Toe with Value Iteration](https://colab.research.google.com/github/mhahsler/Introduction_to_Artificial_Intelligence/blob/master/RL/tictactoe_VI.ipynb) implements value iteration to find the optimal policy to play the game.
 
 ## Chapter 22: Reinforcement Learning (RL)
-[Learning to Play Tic-Tac-Toe with Q-Learning](https://colab.research.google.com/github/mhahsler/Introduction_to_Artificial_Intelligence/blob/master/RL/tictactoe_QL.ipynb) implements a simple table-based Q-learning algorithm to play the game.
-## More on Reinforcement Learning
+* [Q-Learning for the Cliff Walking Environment](https://colab.research.google.com/github/mhahsler/Introduction_to_Reinforcement_Learning/blob/master/TD/Cliff_Walking_QLearning.ipynb) (from [Reinforcement Learning](https://mhahsler.github.io/Introduction_to_Reinforcement_Learning/)).
+* Connection to Chapter 5 (Adversarial Search): [Learning to Play Tic-Tac-Toe with Q-Learning](https://colab.research.google.com/github/mhahsler/Introduction_to_Artificial_Intelligence/blob/master/RL/tictactoe_QL.ipynb) implements a simple table-based Q-learning algorithm to play the game.
+
+## More on Reinforcement Learning 
 
 More on RL (examples, code, libraries) can be found in the course material
 [Reinforcement Learning: Lecture Material, Simple Python Code Examples and Assignments](https://mhahsler.github.io/Introduction_to_Reinforcement_Learning/)
