@@ -13,3 +13,5 @@ WORK_*
 
 # source is in Games:
 RL/tictactoe.py
+
+*.html
