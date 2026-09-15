@@ -25,6 +25,8 @@ drive.mount('/content/drive')
 os.chdir('/content/drive/My Drive/Colab Notebooks/')
 ```
 
+To convert Jupyter notebooks to HTML with Colab, use [Convert a Jupyter Notebook to HTML using Colab](https://colab.research.google.com/github/mhahsler/Introduction_to_Artificial_Intelligence/HOWTOs/colab_to_html.ipynb).
+
 ## Setting up the Environment with Conda
 
 This uses conda to manage virtual environments. 
