@@ -1,5 +1,9 @@
 .vscode
 settings.json
+Gemfile
+Gemfile.lock
+_site/
+.jekyll-cache/
 
 __pycache__
 *_solution.*
