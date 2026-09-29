@@ -2,14 +2,14 @@
 # Chapter 3: Problem Solving by Search
 
 
-## Howto
+## HOWTO
 * [HOWTO: Simple Trees used for Search-based AI in Python](https://colab.research.google.com/github/mhahsler/Introduction_to_Artificial_Intelligence/blob/master/HOWTOs/trees.ipynb)
 
 ## Comparisons
 * [Mazes: Compare the searched state space for different algorithms (L Maze)](https://colab.research.google.com/github/mhahsler/Introduction_to_Artificial_Intelligence/blob/master/Search/Maze_Example.ipynb).
-* [Mazes: Compare the detailed search behavior of BFS, DFS and A* search with animations (Medium Maze)](https://colab.research.google.com/github/mhahsler/Introduction_to_Artificial_Intelligence/blob/master/Search/Maze_Example_Animation.ipynb).
+* [Mazes: Compare the detailed search behavior of BFS, DFS, and A* search with animations (Medium Maze)](https://colab.research.google.com/github/mhahsler/Introduction_to_Artificial_Intelligence/blob/master/Search/Maze_Example_Animation.ipynb).
 * [Mazes: Compare BFS with A-Star Search with animations (L Maze)](https://colab.research.google.com/github/mhahsler/Introduction_to_Artificial_Intelligence/blob/master/Search/Maze_BFS_vs_A_Star.ipynb).
-* [Mazes: Compare Issues with DSF Cycle Checking (Open Maze)](https://colab.research.google.com/github/mhahsler/Introduction_to_Artificial_Intelligence/blob/master/Search/Maze_Example-Animation_Cycle_checking.ipynb).
+* [Mazes: Compare Issues with DFS Cycle Checking (Open Maze)](https://colab.research.google.com/github/mhahsler/Introduction_to_Artificial_Intelligence/blob/master/Search/Maze_Example-Animation_Cycle_checking.ipynb).
 
 ## Heuristics
 * [Maze: The effect of different heuristics](https://colab.research.google.com/github/mhahsler/Introduction_to_Artificial_Intelligence/blob/master/Search/Explore_heuristics.ipynb)

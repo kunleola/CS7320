@@ -1,4 +1,4 @@
-# Chapter 13 Probabilistic Reasoning
+# Chapter 13: Probabilistic Reasoning
 
 ## Code Example
 
@@ -7,9 +7,8 @@
 
 ## Popular Software
 
-* [JAGS - Just Another Gibbs Sampler](https://mcmc-jags.sourceforge.io/) for the analysis of Bayesian hierarchical models using Markov Chain Monte Carlo (MCMC) 
- simulation. There exist R and Python interfaces packages.
-* [STAN](https://mc-stan.org) provides a probabilistic programming language to specify log density functions and then lets the user perform full Bayesian statistical inference with MCMC sampling. There exist R and Python interface packages.
+* [JAGS - Just Another Gibbs Sampler](https://mcmc-jags.sourceforge.io/) analyzes Bayesian hierarchical models using Markov Chain Monte Carlo (MCMC) simulation. R and Python interface packages are available.
+* [Stan](https://mc-stan.org) provides a probabilistic programming language for specifying log density functions and performing full Bayesian statistical inference with MCMC sampling. R and Python interface packages are available.
 
 
 ## License
@@ -17,4 +16,3 @@
 All code and documents in this repository are provided under [Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0) License.](https://creativecommons.org/licenses/by-sa/4.0/)
 
 ![CC BY-SA 4.0](https://licensebuttons.net/l/by-sa/3.0/88x31.png)
-

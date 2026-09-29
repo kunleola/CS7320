@@ -22,7 +22,7 @@ Studying the material requires:
 * Practical knowledge of how to implement data structures (Big-O notation, search trees)
 * Knowledge of probability theory and combinatorics basics
 
-Here is [HOWTO Cover these topics](HOWTOs/prereqs.md) if you feel weak on one of these topics.
+See [HOWTO: Cover the Course Prerequisites](HOWTOs/prereqs.md) if you need to review any of these topics.
 
 ## Covered AIMA Chapters
 
@@ -39,7 +39,7 @@ Here is [HOWTO Cover these topics](HOWTOs/prereqs.md) if you feel weak on one of
 | 9 | 11: Automated Planning: Hierarchical Planning and Monitoring | [PDF](https://mhahsler.github.io/Introduction_to_Artificial_Intelligence/slides/11_Automated_Planning.pdf), [PowerPoint](https://mhahsler.github.io/Introduction_to_Artificial_Intelligence/slides/11_Automated_Planning.pptx) | - |
 | 10 | 12: Quantifying Uncertainty: Bayesian Decision-Making | [PDF](https://mhahsler.github.io/Introduction_to_Artificial_Intelligence/slides/12_uncertainty.pdf),[PowerPoint](https://mhahsler.github.io/Introduction_to_Artificial_Intelligence/slides/12_uncertainty.pptx) | [Code](Uncertainty) |
 | 11 | 13: Probabilistic Reasoning: Bayesian Networks | [PDF](https://mhahsler.github.io/Introduction_to_Artificial_Intelligence/slides/13_bayes_nets.pdf), [PowerPoint](https://mhahsler.github.io/Introduction_to_Artificial_Intelligence/slides/13_bayes_nets.pptx) | [Code](Probabilistic_Reasoning) |
-| 12 | 16: Making Simple Decision: Decision Networks | [PDF](https://mhahsler.github.io/Introduction_to_Artificial_Intelligence/slides/16_decision_making.pdf), [PowerPoint](https://mhahsler.github.io/Introduction_to_Artificial_Intelligence/slides/16_decision_making.pptx) | - |
+| 12 | 16: Making Simple Decisions: Decision Networks | [PDF](https://mhahsler.github.io/Introduction_to_Artificial_Intelligence/slides/16_decision_making.pdf), [PowerPoint](https://mhahsler.github.io/Introduction_to_Artificial_Intelligence/slides/16_decision_making.pptx) | - |
 | 13 | 19-21: Machine Learning: Learning from Examples | [PDF](https://mhahsler.github.io/Introduction_to_Artificial_Intelligence/slides/19_ML_intro.pdf), [PowerPoint](https://mhahsler.github.io/Introduction_to_Artificial_Intelligence/slides/19_ML_intro.pptx) | [Code](ML) |
 | - | 22+17: Reinforcement Learning and MDPs | [PDF](https://mhahsler.github.io/Introduction_to_Artificial_Intelligence/slides/22_Reinforcement_Learning.pdf), [PowerPoint](https://mhahsler.github.io/Introduction_to_Artificial_Intelligence/slides/22_Reinforcement_Learning.pptx) | [Code](RL) |
 

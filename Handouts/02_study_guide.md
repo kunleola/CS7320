@@ -35,7 +35,7 @@
 *   **Action ($A$)** : The set of possible operations an agent can perform on its environment (e.g., Left, Right, Suck, NoOp for the vacuum cleaner).
 *   **Actuators** : The mechanisms by which an agent affects its environment, receiving high-level instructions from the agent function.
 *   **Agent** : An entity that perceives its environment through sensors and acts upon that environment through actuators.
-*   **Agent Function ($f: P^ \rightarrow A$)**: The mathematical mapping from a sequence of percepts (P*) to an action (A) that an agent should take.
+*   **Agent Function ($f: P^* \rightarrow A$)**: The mathematical mapping from a sequence of percepts (P*) to an action (A) that an agent should take.
 *   **Agent Program** : The concrete implementation of the agent function in a programming language, which runs on the agent's architecture.
 *   **Atomic State Representation** : A way to represent states as simple, indivisible labels, like "A" or "B," without revealing internal structure.
 *   **Deterministic Environment** : An environment where the next state is completely determined by the current state and the agent's action; there is no uncertainty in transitions.

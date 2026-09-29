@@ -4,7 +4,7 @@
 ## Examples
 
 * A simple example agent-environment interaction can be found in the introduction of the exercise [reflex-based agents for the vacuum-cleaner world](https://colab.research.google.com/github/mhahsler/Introduction_to_Artificial_Intelligence/blob/master/Agents/robot_vacuum.ipynb).
-* [Lunar lander reflex-based agent](https://colab.research.google.com/github/mhahsler/Introduction_to_Artificial_Intelligence/blob/master/Agents/lunar_lander.ipynb) using the Gymnasium library.
+* The [Lunar lander reflex-based agent](https://colab.research.google.com/github/mhahsler/Introduction_to_Artificial_Intelligence/blob/master/Agents/lunar_lander.ipynb) uses the Gymnasium library.
 
 ## Exercises
 

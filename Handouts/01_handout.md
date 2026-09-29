@@ -5,14 +5,14 @@
 
 Artificial Intelligence (AI) is a field with the goal of creating machines that can **solve problems that are challenging for humans**. These machines are often referred to as **intelligent agents**.
 
-Intelligence itself is defined as the **ability to learn or understand or deal with new or trying situations** and the **ability to apply knowledge**. AI is about learning and needs to be about situations that are hard or new. To achieve this, AI needs reasoning.
+Intelligence itself is defined as the **ability to learn or understand or deal with new or trying situations** and the **ability to apply knowledge**. AI involves learning and reasoning about difficult or unfamiliar situations.
 
-There are different types of AI discussed:
-*   **Narrow AI:** An intelligent agent designed to solve a **specific problem**. Examples include driving a car or playing chess. Most current applications fall into this category. A narrow AI agent very good at one task (like driving) cannot necessarily do another (like flying an airplane or playing chess).
+The source material discusses different types of AI:
+*   **Narrow AI:** An intelligent agent designed to solve a **specific problem**. Examples include driving a car or playing chess. Most current applications fall into this category. A narrow AI agent that is very good at one task (like driving) cannot necessarily do another (like flying an airplane or playing chess).
 *   **Artificial General Intelligence (AGI):** A hypothetical intelligent agent that can **understand or learn any intellectual task that human beings can**. It would be like a replacement for human intelligence.
 *   **Artificial Superintelligence:** A hypothetical intelligent agent possessing **intelligence surpassing that of the brightest and most gifted human minds**.
 
-As of the sources, AGI and Artificial Superintelligence have not yet been reached, but research is moving in that direction.
+According to the source material, AGI and Artificial Superintelligence have not yet been reached, but research is moving in that direction.
 
 ## Approaches to Achieving AI
 
@@ -40,20 +40,20 @@ The sources discuss four main ideas for how we could think about creating artifi
     *   **Advantages of Optimization:** Generality (not limited to logical rules), Practicality (adaptable to many real-world problems), Well established (existing solvers/methods), Avoids philosophy and psychology in favor of a clearly defined objective.
     *   **Bounded rationality:** In practice, expected utility optimization is subject to the agent’s knowledge and computational constraints. The agent does the best it can with its available knowledge and resources.
 
-**This course focuses on creating narrow AI agents that act rationally**. The goal is to create machines that act in a way to solve a specific hard problem that traditionally required human intelligence.
+**This course focuses on creating narrow AI agents that act rationally**. The goal is to create machines that can solve specific, difficult problems that traditionally required human intelligence.
 
 ## Intelligent Agents
 
 Intelligent agents are **machines that act rationally in their environment**.
 
 Components of an intelligent agent:
-*   They need to **communicate with the environment** using percepts (inputs from environment, e.g., via sensors) and actions (outputs that affect the environment, e.g., via actuators).
+*   They need to **communicate with the environment** using percepts (inputs from the environment, e.g., via sensors) and actions (outputs that affect the environment, e.g., via actuators).
 *   They need to **represent knowledge**, reason, and plan to achieve a desired outcome. Representing knowledge allows the agent to remember things. Planning is needed for complicated tasks.
 *   **Learning from experience** to improve performance is an **optional** component.
 
 **Examples:**
-*   **Self-Driving Car:** Percepts include other cars, cyclists, people crossing the street. Action would be to slow down or stop the car. The objective is to reach the destination safely. Stopping to let people cross is a rational action to optimize this objective.
-*   **Homework and LLMs:** Percept is your prompt. Action is creating the next most likely word, which is done word-by-word. The user's objective might be a useful answer, but the LLM's objective is likely to create text similar to its training data (e.g., other essays). This process of generating text word-by-word is very different from how humans might structure an essay.
+*   **Self-Driving Car:** Percepts include other cars, cyclists, and people crossing the street. An action would be to slow down or stop the car. The objective is to reach the destination safely. Stopping to let people cross is a rational action to optimize this objective.
+*   **Homework and LLMs:** The percept is your prompt. The action is creating the next most likely word, one word at a time. The user's objective might be a useful answer, but the LLM's objective is likely to create text similar to its training data (e.g., other essays). This process of generating text word by word is very different from how humans might structure an essay.
 
 ## AI vs. Machine Learning
 
@@ -84,9 +84,9 @@ Recent successes in AI are attributed to the dominance of machine learning, fast
 ## AI Today
 
 AI is used in many areas:
-*   **Vision and Image Processing:** Operating at superhuman performance. Includes OCR (reading text), Face detection, Vehicle safety systems, Visual search, and Image generation (like DALL-E).
-*   **Natural Language Processing (NLP):** Operating at or near superhuman performance. Includes Text-to-speech, Speech-to-text (for voice commands), Machine translation, and Text generation using Large Language Models (LLMs). While AI can create high-quality text, the question of whether it truly understands language is still elusive.
-*   **Robotics:** Significant development has occurred. Examples include Mars rovers, robot soccer (RoboCup), autonomous vehicles (Self-driving cars), drones (including for war efforts), personal robotics, humanoid robots, and robotic pets. The DARPA Grand Challenge was influential in autonomous vehicles.
+*   **Vision and Image Processing:** Some applications operate at superhuman levels. Examples include OCR (reading text), face detection, vehicle safety systems, visual search, and image generation (like DALL-E).
+*   **Natural Language Processing (NLP):** Some applications operate at or near superhuman levels. Examples include text-to-speech, speech-to-text (for voice commands), machine translation, and text generation using Large Language Models (LLMs). While AI can create high-quality text, the question of whether it truly understands language remains open.
+*   **Robotics:** Significant development has occurred. Examples include Mars rovers, robot soccer (RoboCup), autonomous vehicles (self-driving cars), drones (including for war efforts), personal robotics, humanoid robots, and robotic pets. The DARPA Grand Challenge was influential in autonomous vehicles.
 
 There is an interesting phenomenon called **Moravec's Paradox**, stating that it is comparatively easy to make computers perform at an adult level on tasks like intelligence tests or playing chess, but difficult or impossible to give them the skills of a one-year-old in perception and mobility. For example, a teenager learns to drive easily, but a truly self-driving car is still elusive despite years of effort.
 
@@ -145,5 +145,4 @@ Intelligent agents are **optimizers**. Challenges arise because the objectives a
 
 ## Outlook
 
-AI is a technology on the verge of significant leaps, expected to have a **profound impact** on how we live and work, similar to electricity or the internet. We can expect **unprecedented gains in productivity** from better narrow AI. However, new technologies also present dangers and need to be regulated. This course introduces techniques to create simple intelligent agents focused on narrow AI that acts rationally.
-```
+AI is a technology on the verge of significant leaps, expected to have a **profound impact** on how we live and work, similar to electricity or the internet. We can expect **unprecedented gains in productivity** from better narrow AI. However, new technologies also present dangers and need to be regulated. This course introduces techniques to create simple intelligent agents focused on narrow AI that act rationally.

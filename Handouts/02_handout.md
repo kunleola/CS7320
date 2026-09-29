@@ -46,7 +46,7 @@ Examples provided in the sources include:
 *   **Spam Filter**:
     *   Performance measure: Accuracy (minimizing false positives and false negatives).
     *   Environment: A user's email account, email server.
-    *   Actuators: Mark as spam, delete, etc.. These interact with the email server.
+    *   Actuators: Mark as spam, delete, etc. These interact with the email server.
     *   Sensors: Incoming messages, other information about the user's account. This includes the message text.
 *   **Modern Robot Vacuum**:
     *   Performance measure: Time to clean 95%, whether it gets stuck.
@@ -98,7 +98,7 @@ Different types of agent functions define different types of agents. Prototypica
     *   State representation can be **Atomic** (a simple label for a black box state) or **Factored** (a set of attribute values called fluents). Factored states allow for richer reasoning. The set of all possible states is the state space.
     *   The transition function (T(s, a) = s') maps a current state and action to a next state.
     *   The interaction is a sequence of percept, state, action triplets (p0, s0, a0, p1, s1, a1, ...).
-    *   Example: A vacuum cleaner that remembers where it has already been using a map as state information. A smart thermostat compared to an old-school one (which is simple reflex).
+    *   Example: A vacuum cleaner that remembers where it has already been using a map as state information. A smart thermostat provides another example, in contrast to an old-fashioned simple reflex thermostat.
 
 3.  **Goal-based Agent**:
     *   Shares the state and transition function machinery with the model-based agent.
@@ -131,6 +131,6 @@ Real-world applications like self-driving cars are often complex systems compose
 **What You Should Know**:
 
 *   What an **agent function** is and how it interacts with the environment via percepts and actions.
-*   What **states** are and the concept of a **transition function**.
+*   What **states** are and what a **transition function** does.
 *   How environments differ in terms of **observability, uncertainty (stochastic behavior), and whether the transition function is known**.
 *   How to **identify different types of agents** (Simple Reflex, Model-based Reflex, Goal-based, Utility-based, Learning) based on their characteristics and how they decide on actions.

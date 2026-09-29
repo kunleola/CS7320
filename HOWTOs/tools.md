@@ -1,21 +1,20 @@
 <!-- #region -->
-# HOWTO Setup the Used Tools
+# HOWTO: Set Up the Tools
 
 ## Installing Python and Jupyter Notebook
 
 To work on assignments, you can use one of several environments: 
-* Use the online service [Google CoLab](https://colab.research.google.com). No additional installations are necessary.
+* Use the online service [Google Colab](https://colab.research.google.com). No additional installations are necessary.
 * Install Visual Studio Code. It will prompt you to install all needed software when you open a notebook file.
 
 ## Using Google Colab
 
 You can experiment with the code online without installation using 
-[Google CoLab](https://colab.research.google.com/github/mhahsler/Introduction_to_Artificial_Intelligence/). If additional packages are needed then
-I will provide a code block with a commented out `pip install` instruction you can use.
+[Google Colab](https://colab.research.google.com/github/mhahsler/Introduction_to_Artificial_Intelligence/). If additional packages are needed, then
+I will provide a code block with a commented-out `pip install` instruction you can use.
 
-In Colab you need to save notebooks and any additional files you use on GoogleDrive to work with them. 
-For this you need to mount your google dive and change to the correct directory by uncommenting the following lines and running the code block.
-You can manually mount your Google drive in Colab or add the following code block to your notebook:
+In Colab, you need to save notebooks and any additional files you use on Google Drive to work with them.
+To do this, mount your Google Drive and change to the correct directory. You can mount your drive manually in Colab or add the following code block to your notebook:
 
 ```Python
 from google.colab import drive
@@ -29,7 +28,7 @@ To convert Jupyter notebooks to HTML with Colab, use [Convert a Jupyter Notebook
 
 ## Setting up the Environment with Conda
 
-This uses conda to manage virtual environments. 
+This uses Conda to manage virtual environments.
 
 1. Install [Miniconda](https://www.anaconda.com/docs/getting-started/installation). 
 2. Download [environment.yml](../environment.yml)
@@ -47,7 +46,7 @@ Then configure VS Code:
   3. Select Python: Select Interpreter.
   4. Choose CS7320-AI.
   5. For a notebook, click Select Kernel in the upper-right and choose CS7320-AI. 
-     If you cannot find it then you probably need to restart VS Code.
+     If you cannot find it, you may need to restart VS Code.
 
 
 Optional packages can be added afterward:

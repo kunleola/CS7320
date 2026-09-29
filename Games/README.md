@@ -4,9 +4,8 @@
 ## Defining a Game
 * [Defining Tic-Tac-Toe](https://colab.research.google.com/github/mhahsler/Introduction_to_Artificial_Intelligence/blob/master/Games/tictactoe_definitions.ipynb)
 
-## Connection to search with nondeterministic actions (from Chapter 4.3)
-* [Solving Tic-Tac-Toe with And-Or-Tree Search](https://colab.research.google.com/github/mhahsler/Introduction_to_Artificial_Intelligence/blob/master/Games/tictactoe_and_or_tree_search.ipynb). Here the opponent is seen as part of the environment, i.e.,
-each action by the player is followed by an unknown action of the opponent which, from the viewpoint of the player makes the outcomes of actions nondeterministic.
+## Connection to Search with Nondeterministic Actions (from Chapter 4.3)
+* [Solving Tic-Tac-Toe with And-Or-Tree Search](https://colab.research.google.com/github/mhahsler/Introduction_to_Artificial_Intelligence/blob/master/Games/tictactoe_and_or_tree_search.ipynb). Here, the opponent is seen as part of the environment: each action by the player is followed by an unknown action by the opponent, making the outcome nondeterministic from the player's viewpoint.
 
 ## Solving Games Using Adversarial Search
 * [Solving Tic-Tac-Toe with Minimax Search and Alpha-Beta Pruning](https://colab.research.google.com/github/mhahsler/Introduction_to_Artificial_Intelligence/blob/master/Games/tictactoe_alpha_beta_tree_search.ipynb)
@@ -33,7 +32,7 @@ each action by the player is followed by an unknown action of the opponent which
 
 ## License
 &copy; 2025-2026 [Michael Hahsler](https://michael.hahsler.net). 
-All code and documents in this repository is provided under [Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0) License](https://creativecommons.org/licenses/by-sa/4.0/)
+All code and documents in this repository are provided under [Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0) License](https://creativecommons.org/licenses/by-sa/4.0/)
 
 ![CC BY-SA 4.0](https://licensebuttons.net/l/by-sa/3.0/88x31.png)
 <!-- #endregion -->

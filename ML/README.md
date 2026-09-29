@@ -4,13 +4,12 @@
 ## Simple ML Examples
 
 * [Line Fitting: Gradient Descent and SGD](https://colab.research.google.com/github/mhahsler/Introduction_to_Artificial_Intelligence/blob/master/ML/line_fitting.ipynb)
-* [Machine Learning with Python using scikit Learn](https://colab.research.google.com/github/mhahsler/Introduction_to_Artificial_Intelligence/blob/master/ML/ML_example.ipynb)
+* [Machine Learning with Python using scikit-learn](https://colab.research.google.com/github/mhahsler/Introduction_to_Artificial_Intelligence/blob/master/ML/ML_example.ipynb)
 
 
 ## Using ML to Play Tic-Tac-Toe 
 * [Learn to Score a Tic-Tac-Toe Board by Example](https://colab.research.google.com/github/mhahsler/Introduction_to_Artificial_Intelligence/blob/master/ML/ML_for_tictactoe.ipynb)
-* [Tic-Tac-Toe data](./tictactoe_data.csv) created using 5000 random playouts (with [tictactoe_data_random.py](tictactoe_data_random.py)). This 
-  data can be used to train a state evaluation model.
+* [Tic-Tac-Toe data](./tictactoe_data.csv) created using 5,000 random playouts (with [tictactoe_data_random.py](tictactoe_data_random.py)). The data can be used to train a state evaluation model.
 
 ## Exercise
 [Creating an ML model for an AI Tic-Tac-Toe Agent](https://colab.research.google.com/github/mhahsler/Introduction_to_Artificial_Intelligence/blob/master/ML/ML_tictactoe_exercise.ipynb)
