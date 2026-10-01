@@ -1,5 +1,4 @@
 title: Introduction to Artificial Intelligence
-description: " "
 theme: jekyll-theme-slate
 plugins:
   - jekyll-optional-front-matter
