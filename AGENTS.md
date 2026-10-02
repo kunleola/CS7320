@@ -35,6 +35,7 @@ Optional topic dependencies are separated under `environments/`: apply `gymnasiu
 - Match the local style of the file or notebook. Avoid broad formatting or cleanup changes unrelated to the task.
 - Keep examples self-contained where practical and favor descriptive names and short explanatory comments.
 - Preserve relative paths so notebooks work both locally and when opened from the repository.
+- In Markdown and notebook links, open project notebooks on Google Colab using `https://colab.research.google.com/github/mhahsler/CS7320-AI/blob/master/<path-to-notebook.ipynb>` instead of linking to GitHub or nbviewer notebook pages. Keep links to other file types, such as CSV and Markdown files, directed to their appropriate destinations.
 - Do not expose assignment solutions. Files matching solution/working patterns are intentionally ignored by `.gitignore`.
 - Do not edit generated HTML by hand when a corresponding `.ipynb`, `.qmd`, or `.Rmd` source exists. Change the source and regenerate the output when the task requires the published artifact to stay synchronized.
 - Avoid committing transient files such as `.ipynb_checkpoints/`, `__pycache__/`, editor lock files, environment files, or notebook scratch outputs.
