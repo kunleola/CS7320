@@ -3,7 +3,7 @@
 [![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC_BY_SA_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
 
 
-<img src="assets/cover2.jpg" class="book-image" style="border:1px solid #000;float:right;", align="right">
+<img src="assets/cover2.jpg" class="book-image" style="border:1px solid #000;float:right;" align="right">
 
 
 This repository contains lecture material, simple Python code examples, and programming exercises for the course
